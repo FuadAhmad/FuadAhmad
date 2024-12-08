@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abu Fuad Ahmad (@FuadAhmad)
-- 👀 I’m interested in Game development, Mobile application and Machine Learning.
-- 🌱 I’m currently learning Data Science and ML.
-- 💞️ I’m looking to collaborate on Unity, android, iOS, and Data Analytics projects.
+- 👋 Hi, I’m Abu Fuad Ahmad (@FuadAhmad) PhD Student in CS.
+- 👀 I’m interested in Machine Learning and Deep Learning specially in Generative models.
+- 🌱 I’m currently learning Deep Generative model and conditional Diffusion models.
+- 💞️ I’m looking to collaborate on ML-based research and Data Analytics projects.
 - 📫 You can email me: fuadahmad01@gmail.com
 
 best wishes to all of you.
